@@ -2,6 +2,8 @@
 
 Project for Udacity's Sensor Fusion Engineer Nanodegree Program
 
+If you want to find more details, please check my blog: [Radar target generation and detection-Hardware](https://blog.csdn.net/williamhyin/article/details/105414455), [Radar target generation and detection-Software](https://blog.csdn.net/williamhyin/article/details/105414541)
+
 ### Project Goal
 
 - Configure the FMCW waveform based on the system requirements.
